@@ -1,6 +1,6 @@
 ### Konnichiwa, Watashi wa Masudha desu! 👋
 
-## I'm a Sophomore Student, Web Developer, Flutter Developer and Open Source Contributor!
+## I'm a Student, Web Developer, Flutter Developer and Open Source Contributor!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for internships in Summer 2021
