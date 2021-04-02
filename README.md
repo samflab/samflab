@@ -1,4 +1,4 @@
-### Konnichiwa, Watashi wa Masudha desu! 👋
+### Konnichiwa, Masudha desu! 👋
 
 ## I'm a Student, Web Developer, Flutter Developer and Open Source Contributor!
 
