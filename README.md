@@ -3,7 +3,7 @@
 ## I'm a Student, Web Developer, Flutter Developer and Open Source Contributor!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 Incoming Web Developer Intern at Alhansat Technologies
+- 👯 Full stack Developer Intern at Alhansat Technologies
 - 🥅 2020 Goals: Contribute more to Open Source projects and Enhance my Skills
 - ⚡ Fun fact: I love anime and I am a crazy otaku!
 
