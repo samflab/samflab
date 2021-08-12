@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning MERN stack.
 - 👯 Looking for FTE roles for the year 2022
-- 🥅 2021 Goals: Experiment, learn aand build stuffs with my skillsets. 
+- 🥅 2021 Goals: Experiment, learn and build stuffs with my skillsets. 
 - ⚡ Fun fact: I love anime and I am a crazy otaku!
 - 💬 Ask me about Tech-related stuff
 
