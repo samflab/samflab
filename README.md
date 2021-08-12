@@ -3,20 +3,21 @@
 ## I'm a final year student and a frontend developer.
 
 - 🌱 I’m currently learning MERN stack.
-- 👯 Currently looking for FTE roles for the year 2022
+- 👯 Looking for FTE roles for the year 2022
 - 🥅 2021 Goals: Experiment, learn aand build stuffs with my skillsets. 
 - ⚡ Fun fact: I love anime and I am a crazy otaku!
+- 💬 Ask me about Tech-related stuff
 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/masudhameher/" target="_blank">
   <img align="left" alt="Masudha Meher | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.twitter.com/kasturimeh" target="_blank">
-  <img align="left" alt="Masudha Meher | Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 <a href="https://samflab.medium.com/" target="_blank">
   <img align="left" alt="Masudha Meher | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://www.twitter.com/kasturimeh" target="_blank">
+  <img align="left" alt="Masudha Meher | Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <br/>
