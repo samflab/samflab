@@ -3,7 +3,6 @@
 ## I'm a final year student and a frontend developer.
 
 - 🌱 I’m currently learning MERN stack.
-- 👯 Looking for FTE roles for the year 2022
 - 💻 Frontend Dev at Kaos | Technical Blogger at FortyTwo
 - 🥅 2021 Goals: Experiment, learn and build stuffs with my skillsets. 
 - 👩🏻‍💻 Pronouns: she/her/hers
