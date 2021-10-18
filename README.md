@@ -1,4 +1,4 @@
-### Konnichiwa, Masudha desu! 👋
+# Konnichiwa, Masudha desu! 👋
 
 ## I'm a final year student and a frontend developer.
 
