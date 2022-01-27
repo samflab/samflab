@@ -3,9 +3,9 @@
 ## I'm a final year student and a frontend developer.
 
 - 🌱 I’m currently learning MERN stack.
-- 💻 Frontend Dev at Kaos | Technical Blogger at FortyTwo
+- 💻 Frontend Dev at Kaos
 - 🥅 2021 Goals: Experiment, learn and build stuffs with my skillsets. 
-- 👩🏻‍💻 Pronouns: she/her/hers
+- 👩🏻‍💻 Pronouns: she/her
 - ⚡ Fun fact: I love anime and I am a crazy otaku!
 - 💬 Ask me about Tech-related stuff
 
