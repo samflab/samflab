@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning MERN stack.
 - 💻 Frontend Dev at Kaos
-- 🥅 2021 Goals: Experiment, learn and build stuffs with my skillsets. 
+- 🥅 2022 Goals: Experiment, learn and build stuffs with my skillsets. 
 - 👩🏻‍💻 Pronouns: she/her
 - ⚡ Fun fact: I love anime and I am a crazy otaku!
 - 💬 Ask me about Tech-related stuff
