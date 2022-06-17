@@ -1,6 +1,6 @@
 # Konnichiwa, Masudha desu! 👋
 
-## I'm a final year student and a frontend developer.
+## I'm a React JS Developer.
 
 - 🌱 I’m currently learning MERN stack.
 - 💻 Frontend Dev at Kaos
