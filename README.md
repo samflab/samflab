@@ -3,8 +3,8 @@
 ## I'm a React JS Developer.
 
 - 🌱 I’m currently learning MERN stack.
-- 💻 Upcoming Trainee Software Engineer at Duetsche Telekom Digital Labs
-- 🥅 2022 Goals: Experiment, learn and build stuffs with my skillsets. 
+- 💻 Software Engineer at Duetsche Telekom Digital Labs
+- 🥅 2023 Goals: Experiment, learn and build stuffs with my skillsets. 
 - 👩🏻‍💻 Pronouns: she/her
 - ⚡ Fun fact: I love anime and I am a crazy otaku!
 - 💬 Ask me about Tech-related stuff
