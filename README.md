@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning MERN stack.
 - 💻 Software Engineer at Duetsche Telekom Digital Labs
-- 🥅 2023 Goals: Experiment, learn and build stuffs with my skillsets. 
+- 🥅 2025 Goals: Experiment, learn and build stuffs with my skillsets. 
 - 👩🏻‍💻 Pronouns: she/her
 - ⚡ Fun fact: I love anime and I am a crazy otaku!
 - 💬 Ask me about Tech-related stuff
